@@ -3,4 +3,4 @@ first personal project checking
 <br/>
 learning commit on github
 <br/>
-Author - Sandeep
+Author - Sandeep developer
