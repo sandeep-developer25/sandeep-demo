@@ -4,3 +4,4 @@ first personal project checking
 learning commit on github
 <br/>
 Author - Sandeep developer
+branches - main only
